@@ -1,1 +1,1 @@
-# perceptualQualityMetric
+# INRF-IQ
