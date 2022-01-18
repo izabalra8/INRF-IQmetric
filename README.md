@@ -16,5 +16,6 @@ This repository depends on Matlab.
 
 You can simply use the file main.m to run the demo using some given example images. 
 
-To use your own images, save the original image and the distorted image on the folders `img/original` and `img/dist` under the names `original.jpg` and `dist.jpg` respectively.
-You will see the result in `img/result.jpg`.
+To use your own images, save the original images and the distorted images on the folders `img/original` and `img/dist` respectively.
+A text file containing the distance between images will be saved in img/results/INRFdist.txt
+
